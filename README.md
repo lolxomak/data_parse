@@ -9,6 +9,8 @@
   </a>
 </p>
 
+# Инструкция
+
 1. Скачай все используемые библиотеки. Для этого в консоли поочередно напишите следующие команды: 
 'pip install Flask', 'pip install requests', 'pip install beautifulsoup4', 'pip install pandas', 'pip install bd-sqlite'.
 
