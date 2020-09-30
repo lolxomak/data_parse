@@ -1,4 +1,15 @@
-1. Необходимо скачать все используемые библиотеки. Для этого в консоли поочередно напишите следующие команды: 
+<!--lint disable no-literal-urls-->
+<p align="center">
+  <a href="https://google.com/">
+    <img
+      alt="Node.js"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTA6EqN_dV_KyZQH1WvoM9RRNW30Vzi00IxBA&usqp=CAU"
+      width="400"
+    />
+  </a>
+</p>
+
+1. Скачай все используемые библиотеки. Для этого в консоли поочередно напишите следующие команды: 
 'pip install Flask', 'pip install requests', 'pip install beautifulsoup4', 'pip install pandas', 'pip install bd-sqlite'.
 
 2. Запусти фаил 'app.py'
